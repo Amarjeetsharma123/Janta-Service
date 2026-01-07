@@ -1,47 +1,96 @@
-# 🚀 Janta Service – Image Utility Web App
+<div align="center">
 
-Janta Service is a modern, fast, and user-friendly **Image Utility Web Application** built to provide multiple photo-related tools in one place.  
-This project helps users easily convert, resize, and analyze images with a clean UI and smooth experience.
+# 🚀 Janta Service  
+### 🖼️ All-in-One Image Utility Web App  
 
----
+A modern, fast, and user-friendly **Image Utility Platform**  
+built with **Next.js & TypeScript** to serve the *Janta*.
 
-## ✨ Features
-
-✅ JPG to PNG Converter  
-✅ JPG to PDF Converter  
-✅ Image Size Checker (KB / MB)  
-✅ Image Dimension Checker (Width × Height)  
-✅ Image Resize Tool  
-✅ Separate pages for each tool  
-✅ Attractive bordered UI for tool pages  
-✅ Responsive design (Mobile + Desktop)  
-✅ Fast processing with client-side optimization  
+</div>
 
 ---
 
-## 🧰 Tools Included
+<br/>
 
-| Tool Name | Description |
-|----------|-------------|
-| JPG → PNG | Convert JPG images to PNG format |
-| JPG → PDF | Convert single or multiple JPG images into PDF |
+## ✨ Key Features
+
+- 🔄 JPG to PNG Converter  
+- 📄 JPG to PDF Converter  
+- 📏 Image Dimension Checker (Width × Height)  
+- 💾 Image Size Checker (KB / MB)  
+- ✂️ Image Resize Tool  
+- 📂 Separate pages for each tool  
+- 🎨 Clean bordered UI for better visual appeal  
+- 📱 Fully responsive (Mobile + Desktop)
+
+---
+
+<br/>
+
+## 🧰 Available Tools
+
+| Tool | Function |
+|----|----|
+| JPG → PNG | Convert JPG images into PNG format |
+| JPG → PDF | Convert JPG images into a single PDF |
 | Photo Size | Check image size in KB / MB |
-| Image Dimension | View width & height of image |
-| Resize Image | Resize image by width & height |
+| Image Dimension | View image width & height |
+| Resize Image | Resize images easily |
 
 ---
 
-## 🖥️ Tech Stack Used
+<br/>
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
-</p>
+## 🛠️ Skills & Technologies Used
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/><br/>
+<b>Next.js</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/><br/>
+<b>TypeScript</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/><br/>
+<b>React.js</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/><br/>
+<b>JavaScript</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/><br/>
+<b>CSS3</b>
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 🗂️ Project Structure
+<br/>
 
+## 📁 Project Structure
+
+```bash
+janta-service/
+├── app/
+│   ├── jpg-to-png/
+│   ├── jpg-to-pdf/
+│   ├── image-size/
+│   ├── resize-image/
+│   └── layout.tsx
+├── components/
+├── styles/
+├── public/
+└── README.md
