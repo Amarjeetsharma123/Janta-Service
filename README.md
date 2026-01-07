@@ -82,7 +82,7 @@ built with **Next.js & TypeScript** to serve the *Janta*.
 
 ## 📁 Project Structure
 
-
+```bash
 janta-service/
 ├── app/
 │   ├── jpg-to-png/
@@ -94,9 +94,10 @@ janta-service/
 ├── styles/
 ├── public/
 └── README.md
-
+---
 
 <div align="center">
-<b>Developed by Amarjeet Sharma</b>
-</div>
 
+**Developed by Amarjeet Sharma** ❤️  
+
+</div>
