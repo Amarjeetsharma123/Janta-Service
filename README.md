@@ -82,7 +82,7 @@ built with **Next.js & TypeScript** to serve the *Janta*.
 
 ## 📁 Project Structure
 
-```bash
+
 janta-service/
 ├── app/
 │   ├── jpg-to-png/
@@ -95,17 +95,8 @@ janta-service/
 ├── public/
 └── README.md
 
----
-
-<br/>
 
 <div align="center">
-
-### 👨‍💻 Developed by  
-## **Amarjeet Sharma**
-
-🚀 Frontend Developer | Next.js & TypeScript  
-
-⭐ If you like this project, don’t forget to star the repository  
-
+<b>Developed by Amarjeet Sharma</b>
 </div>
+
