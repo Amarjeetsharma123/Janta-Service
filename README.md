@@ -94,3 +94,18 @@ janta-service/
 ├── styles/
 ├── public/
 └── README.md
+
+---
+
+<br/>
+
+<div align="center">
+
+### 👨‍💻 Developed by  
+## **Amarjeet Sharma**
+
+🚀 Frontend Developer | Next.js & TypeScript  
+
+⭐ If you like this project, don’t forget to star the repository  
+
+</div>
