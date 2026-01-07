@@ -95,7 +95,7 @@ janta-service/
 ├── public/
 └── README.md
 ---
-
+```
 <div align="center">
 
 **Developed by Amarjeet Sharma** ❤️  
